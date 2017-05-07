@@ -1,0 +1,19 @@
+{
+  "name": "just-chess-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srokit/JustChess-Server.git"
+  },
+  "author": "Stanley Rokita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srokit/JustChess-Server/issues"
+  },
+  "homepage": "https://github.com/Srokit/JustChess-Server#readme"
+}
